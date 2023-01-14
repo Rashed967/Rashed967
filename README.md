@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">Hi, I'm Abdur Rahman Rashed</h1>
-<h3 align="center">A Passionate Full Stack Web Developer From Bangladesh.</h3>
+<img src="https://www.codeimmersives.com/wp-content/uploads/2021/04/term1.png" width="100%" alt="Wb Development">
+<h1 align="center">Hi there👋, I'm Abdur Rahman Rashed</h1>
+<h3 align="center">A Passionate Full Stack Web Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed967&label=Profile%20views&color=0e75b6&style=flat" alt="rashed967" /> </p>
 
