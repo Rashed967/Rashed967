@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Languages that I speak:
 
-- <img src="./source/bangladesh.svg" alt="Bangladeshi" width="24"/> <img src="./source/india.svg" alt="India" width="24"/> Bangla (Native)
+- <img src="./source/bangladesh.svg" alt="Bangladesh" width="24"/> <img src="./source/india.svg" alt="India" width="24"/> Bangla (Native)
 
 - <img src="./source/usa.svg" alt="USA" width="24"/> <img src="./source/canada.svg" alt="Canada" width="23"/> English (Intermediate)
 
